@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-16"?>
+
+<OverrideOrder>
+	<Set name="pc">
+		<!-- default values in code -->
+		<Path name="base\"/>
+		<Path name="developer\"/>
+		<Path name="r4game\"/>
+		<Path name="platform\pc\"/>
+	</Set>
+	<Set name="xbox1">
+		<!-- default values in code -->
+		<Path name="base\"/>
+		<Path name="developer\"/>
+		<Path name="r4game\"/>
+		<Path name="platform\xbox1\"/>
+	</Set>
+	<Set name="ps4">
+		<!-- default values in code -->
+		<Path name="base/"/>
+		<Path name="developer\"/>
+		<Path name="r4game/"/>
+		<Path name="platform/ps4/"/>
+	</Set>
+</OverrideOrder>
