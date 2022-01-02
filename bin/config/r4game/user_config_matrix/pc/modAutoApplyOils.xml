@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserConfig>
+  <Group id="aao_settings" displayName="Mods.auto_apply_oils">
+    <VisibleVars>
+      <Var id="val_enable_mod" displayName="aao_enable_mod" displayType="TOGGLE"/>
+      <Var id="val_enable_bosses" displayName="aao_enable_bosses" displayType="TOGGLE"/>
+    </VisibleVars>
+  </Group>
+</UserConfig>
