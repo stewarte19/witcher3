@@ -336,20 +336,6 @@
 						<Entry varId="MaxTextureAnizotropy" 	value="16"/>
 						<Entry varId="TextureMipBias" 			value="-1.0"/>
 					</Option>
-					<Option id="4" displayName="Halk Ultra HD">
-						<Entry overrideGroup="TextureStreaming" varId="MaxResidentMipMap" 	value="6"/>
-						<Entry varId="MaxTextureSize" 			value="4096"/>
-						<Entry varId="MaxAtlasTextureSize" 		value="4096"/>
-						<Entry varId="TextureDownscale" 		value="0"/>
-						<Entry varId="DetailTextureDownscale" 	value="0"/>
-						<Entry varId="AtlasTextureDownscale" 	value="0"/>
-						<Entry varId="TextureMemoryBudget" 		value="4000"/>
-						<Entry varId="TextureMemoryGUIBudget" 	value="80"/>
-						<Entry varId="TextureTimeBudget" 		value="10"/>
-						<Entry varId="TextureInFlightBudget" 	value="128"/>
-						<Entry varId="MaxTextureAnizotropy" 	value="16"/>
-						<Entry varId="TextureMipBias" 			value="-0.5"/>
-					</Option>
 				</OptionsArray>
 			</Var>
 			<Var id="Virtual_FoliageVisibility" displayName="foliage_visibility" displayType="OPTIONS" tags="refreshEngine">
